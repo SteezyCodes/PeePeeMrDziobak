@@ -113,7 +113,6 @@ body {
 
 .ppd:hover {
     animation: YES 2s linear infinite forwards;
-    background-image: url('https://pbs.twimg.com/media/EWr6271X0AEbQvr.jpg')
 }
 
 .ppd:hover::after {
